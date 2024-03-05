@@ -1,0 +1,93 @@
+
+
+div{
+    
+    border: 2px solid blue;
+    max-width: 100%;
+    max-height:100%;
+    margin: 10px;
+    border-radius: 50px;
+    background-position: center;
+    
+    
+    
+
+
+}
+
+span{
+    text-align:left;
+    display: flex;
+    margin-left: 18px;
+    margin-top: 11px;
+    
+
+
+}
+
+
+img{
+   height: 110px;
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 50px;
+    
+}
+
+.container{
+    margin-bottom: 20px;
+    border: none;
+    display: flex;
+    align-content: space-between;
+    text-align: center;
+    width: 75%;
+    float: left; 
+    margin-left: 150px;
+    margin-top: 0%;
+    
+    
+}
+
+.container_2{
+    border: none;
+    display: flex;
+    align-content: space-between;
+    text-align: center;
+    width: 75%;
+    float: left;
+    margin-left: 147px;
+    
+    
+    
+    
+    
+}
+
+
+body{
+    background-image:url(images/pexels-aleksandar-pasaric-1415734.jpg);
+    image-resolution: 1000px;
+    background-attachment: fixed;
+    
+    
+}
+
+h4{
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+}
+
+h2{
+    margin-left: 160px;
+    
+}
+
+
+
+
+
+
+
+
+
